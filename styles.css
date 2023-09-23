@@ -1,0 +1,14 @@
+:root {
+  background-color: beige;
+}
+
+section {
+  text-align: center;
+}
+ul {
+  list-style-position: inside; /* Place the bullet points inside the list items */
+}
+li {
+  text-align: center; /* Align the text to the left within list items */
+  margin: 0 10px; /* Add spacing between list items */
+}
